@@ -1,0 +1,17 @@
+*{
+  padding: ;
+  margin: ;
+}
+body  {
+  background-image: url("");
+  background-color: #cccccc;
+}
+
+ul {
+  font-family: 'zen loop', sans-serif;
+  font-size: 40px;
+}
+ol{
+  font-family: 'zen loop',sans-serif;
+  font-size: 40px;
+}
